@@ -1,0 +1,15 @@
+
+k
+java:S1192/"IDefine a constant instead of duplicating this literal "Editable" 7 times.(ñÄ±òûÿÿÿÿ8ú•ßêµ1
+J
+java:S1604a"(Make this anonymous inner class a lambda(Üà¨¯üÿÿÿÿ8ü•ßêµ1
+E
+java:S1604g"(Make this anonymous inner class a lambda(éäó‚8ü•ßêµ1
+J
+java:S1604m"(Make this anonymous inner class a lambda(ÈŒèâüÿÿÿÿ8ü•ßêµ1
+w
+java:S1450"ZRemove the "falseButton" field and declare it as a local variable in the relevant methods.(Ôœ8³–ßêµ1
+{
+java:S1450"YRemove the "nextButton" field and declare it as a local variable in the relevant methods.(º€ü‰ùÿÿÿÿ8³–ßêµ1
+{
+java:S1450"YRemove the "trueButton" field and declare it as a local variable in the relevant methods.(Ãş×Äüÿÿÿÿ8³–ßêµ1
